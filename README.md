@@ -16,7 +16,7 @@ This complete recording demonstrates the boot-to-desktop sequence, our custom fa
 ### Custom Lock Screen
 A quick look at the minimalist security screen utilizing our custom ukiyo-e terminal workstation art.
 
-![Lockscreen Demo](assets/Lockscreen.mp4)
+<video src="https://github.com/Texhnocrat/hokusai-desktop-setup/releases/download/v1.0.0/13.Lockscreen.mp4" controls width="100%"></video>
 
 ---
 
