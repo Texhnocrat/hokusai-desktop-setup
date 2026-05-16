@@ -8,15 +8,17 @@ This setup features a unified parchment-and-ink color space, a borderless tiling
 
 ## 🎥 Walkthrough & Demos
 
-### Main System Walkthrough
-This complete recording demonstrates the boot-to-desktop sequence, our custom fastfetch greeting, tab management inside the terminal, active reading layouts, and launching an video file via the CLI using `mpv`.
+A quick look at the environment's motion, active layouts, and system transitions using lightweight animated previews.
 
-![Full Walkthrough](assets/unixmainc.mp4)
+### Tiled CLI Workspaces
+A demonstration of launching into the desktop environment, initializing the terminal framework, and managing active split-pane layout tracking.
+
+![Tiled Workspace Demonstration](assets/My_Linux_Rice/14.unixmaine(1).gif)
 
 ### Custom Lock Screen
-A quick look at the minimalist security screen utilizing our custom ukiyo-e terminal workstation art.
+The responsive user authentication and system security screen utilizing our custom ukiyo-e workstation artwork asset.
 
-<video src="https://github.com/Texhnocrat/hokusai-desktop-setup/releases/download/v1.0.0/13.Lockscreen.mp4" controls width="100%"></video>
+![Lock Screen Sequence](assets/My_Linux_Rice/13.Lockscreen.gif)
 
 ---
 
