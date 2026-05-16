@@ -29,16 +29,24 @@ A quick look at the minimalist security screen utilizing our custom ukiyo-e term
 The core desktop layout utilizes a flat taskbar matching the soft blue oceanic hues of the main print. 
 
 ![Main Desktop](assets/My_Linux_Rice/2.mainscreen.png)
-* **Wallpaper Asset:** ![Wallpaper Asset](assets/My_Linux_Rice/11.UkiyoPicture.jpeg)
-* **Second Monitor Screen:** ![Calm Before Storm](assets/My_Linux_Rice/8.calmbeforestorm.jpeg) (A peaceful evening featuring two boats sailing on calm waters)
-* * **Lock Screen Preview:** ![Lock Screen Preview](assets/My_Linux_Rice/6.lockscreen.png) (A clean security interface featuring themed artwork)
 
 ### 2. Custom Terminal Environment (Kitty)
 Driven by the Kitty terminal backend, this interface strips away window borders and title bars for maximum screen real estate. 
-* **System Diagnostics:** ![Fastfetch View](assets/My_Linux_Rice/3.fastfetchview.png) & ![Btop View](assets/My_Linux_Rice/7.btop.png) Shows detailed system information and core performance layout using custom canvas-colored borders.
-* **CMatrix Theme:** ![CMatrix Theme](assets/My_Linux_Rice/4.cmatrix.png) Terminal matrix stream utilizing matching dark ink tones.
+* **System Diagnostics:** *Shows detailed system information and core performance layout using custom canvas-colored borders.* ![Fastfetch View](assets/My_Linux_Rice/3.fastfetchview.png)
+* **Btop CLI View:** **  ![Btop View](assets/My_Linux_Rice/7.btop.png) 
+* **CMatrix Theme:** *Terminal matrix stream utilizing matching dark ink tones.* ![CMatrix Theme](assets/My_Linux_Rice/4.cmatrix.png) 
+---
 
+## 📥 Artwork & Assets Download
+If you want to use the standalone custom background and lock screen artwork from this build, you can view and save the high-resolution files below:
 
+* **Primary Wallpaper:** ![Wallpaper Asset](assets/My_Linux_Rice/11.UkiyoPicture.jpeg)
+* **Second Monitor Screen:** *(A peaceful evening featuring two boats sailing on calm waters)* ![Calm Before Storm](assets/My_Linux_Rice/8.calmbeforestorm.jpeg) 
+* **Lock Screen Theme (Terminal Samurai):** ![Terminal Samurai](assets/My_Linux_Rice/10.terminalsamurai.jpeg)
+* **Fastfetch Wave Asset:** *(A transparent wave graphic used for the CLI fastfetch)* ![Fastfetch Wave Artwork](assets/My_Linux_Rice/9.fastfetchwaves.png) 
+  
+
+---
 
 <details>
 <summary>📄 Click to view the full kitty.conf file</summary>
@@ -51,7 +59,7 @@ foreground #1f1f1f
 
 no_titlebar yes
 
-font_family        IBM Plex Mono
+font_family      IBM Plex Mono
 bold_font          auto
 italic_font        auto
 bold_italic_font   auto
