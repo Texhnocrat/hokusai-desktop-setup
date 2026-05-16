@@ -38,8 +38,7 @@ Beyond core system utilities, the environment maintains the same cohesive aesthe
 * **Spotify Layout:** *Spotify with Spicetify to match the color themes*  ![Spotify Setup](assets/My_Linux_Rice/5.spotify.png)
 * **Custom Firefox Configuration:** ![Firefox Browser Setup](assets/My_Linux_Rice/CustomFirefox.png)
 * **Digital Reading Desk:** *Ebook Viewer On Hand With A Good Book To Read.* ![Reading Layout](assets/My_Linux_Rice/SuperiorRead.png) 
-* **CLI Media Streaming (mpv):** *pulling up videos directly using `mpv` in the terminal.*  ![Movie Playback](assets/My_Linux_Rice/mpvPull.png)
-* **MPV Movie Player:** *Movie Begins Playing Out Of The Terminal hehe* ![Movie Playing](assets/My_Linux_Rice/MoviePlay.png)
+* **CLI Media Streaming with mpv:** *pulling up videos directly using `mpv` Movie Begins Playing Out Of The Terminal hehe.* ![Movie Playing](assets/My_Linux_Rice/14.unixmaine(3).gif)
 
 
 
