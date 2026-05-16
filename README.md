@@ -33,7 +33,7 @@ The core desktop layout utilizes a flat taskbar matching the soft blue oceanic h
 ### 2. Custom Terminal Environment (Kitty)
 Driven by the Kitty terminal backend, this interface strips away window borders and title bars for maximum screen real estate. 
 * **System Diagnostics:** *Shows detailed system information and core performance layout using custom canvas-colored borders.* ![Fastfetch View](assets/My_Linux_Rice/3.fastfetchview.png)
-* **Btop CLI View:** **  ![Btop View](assets/My_Linux_Rice/7.btop.png) 
+* **Btop CLI View:** *A graphical, real-time terminal monitor tracking CPU, memory, and processes within*  ![Btop View](assets/My_Linux_Rice/7.btop.png) 
 * **CMatrix Theme:** *Terminal matrix stream utilizing matching dark ink tones.* ![CMatrix Theme](assets/My_Linux_Rice/4.cmatrix.png) 
 ---
 
@@ -43,6 +43,7 @@ If you want to use the standalone custom background and lock screen artwork from
 * **Primary Wallpaper:** ![Wallpaper Asset](assets/My_Linux_Rice/11.UkiyoPicture.jpeg)
 * **Second Monitor Screen:** *(A peaceful evening featuring two boats sailing on calm waters)* ![Calm Before Storm](assets/My_Linux_Rice/8.calmbeforestorm.jpeg) 
 * **Lock Screen Theme (Terminal Samurai):** ![Terminal Samurai](assets/My_Linux_Rice/10.terminalsamurai.jpeg)
+* **Tsunami Profile Picture:** *(Tsunami graphic used for user pfp)*  ![Tsunami PFP](assets/My_Linux_Rice/12.wavypfp.png) 
 * **Fastfetch Wave Asset:** *(A transparent wave graphic used for the CLI fastfetch)* ![Fastfetch Wave Artwork](assets/My_Linux_Rice/9.fastfetchwaves.png) 
   
 
