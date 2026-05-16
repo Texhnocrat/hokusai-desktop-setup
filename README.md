@@ -31,6 +31,7 @@ The core desktop layout utilizes a flat taskbar matching the soft blue oceanic h
 ![Main Desktop](assets/My_Linux_Rice/2.mainscreen.png)
 * **Wallpaper Asset:** ![Wallpaper Asset](assets/My_Linux_Rice/11.UkiyoPicture.jpeg)
 * **Second Monitor Screen:** ![Calm Before Storm](assets/My_Linux_Rice/8.calmbeforestorm.jpeg) (A peaceful evening featuring two boats sailing on calm waters)
+* * **Lock Screen Preview:** ![Lock Screen Preview](assets/My_Linux_Rice/6.lockscreen.png) (A clean security interface featuring themed artwork)
 
 ### 2. Custom Terminal Environment (Kitty)
 Driven by the Kitty terminal backend, this interface strips away window borders and title bars for maximum screen real estate. 
