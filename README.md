@@ -23,6 +23,9 @@ A quick look at the minimalist security screen utilizing our custom ukiyo-e term
 ## 🖼️ Visual Gallery & Component Breakdown
 
 ### 1. The Main Desktop Environment
+
+* **Greeting Screen:** ![Greeting Screen](assets/My_Linux_Rice/1.terminalgreeting.png)
+
 The core desktop layout utilizes a flat taskbar matching the soft blue oceanic hues of the main print. 
 
 ![Main Desktop](assets/My_Linux_Rice/2.mainscreen.png)
@@ -31,12 +34,10 @@ The core desktop layout utilizes a flat taskbar matching the soft blue oceanic h
 
 ### 2. Custom Terminal Environment (Kitty)
 Driven by the Kitty terminal backend, this interface strips away window borders and title bars for maximum screen real estate. 
-
-* **Greeting Screen:** ![Greeting Screen](assets/My_Linux_Rice/1.terminalgreeting.png) Features a custom text greeting over the parchment canvas.
 * **System Diagnostics:** ![Fastfetch View](assets/My_Linux_Rice/3.fastfetchview.png) & ![Btop View](assets/My_Linux_Rice/7.btop.png) Shows detailed system information and core performance layout using custom canvas-colored borders.
 * **CMatrix Theme:** ![CMatrix Theme](assets/My_Linux_Rice/4.cmatrix.png) Terminal matrix stream utilizing matching dark ink tones.
 
-![Terminal Overview](assets/My_Linux_Rice/3.fastfetchview.png)
+
 
 <details>
 <summary>📄 Click to view the full kitty.conf file</summary>
