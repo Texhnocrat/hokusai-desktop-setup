@@ -25,19 +25,18 @@ A quick look at the minimalist security screen utilizing our custom ukiyo-e term
 ### 1. The Main Desktop Environment
 The core desktop layout utilizes a flat taskbar matching the soft blue oceanic hues of the main print. 
 
-![Main Desktop](assets/2.mainscreen.png)
-
-* **Wallpaper Asset:** `assets/11.UkiyoPicture.jpeg`
-* **Alternative Artwork:** `assets/8.calmbeforestorm.jpeg` (A peaceful composition featuring a single boat on calm waters)
+![Main Desktop](assets/My_Linux_Rice/2.mainscreen.png)
+* **Wallpaper Asset:** ![Wallpaper Asset](assets/My_Linux_Rice/11.UkiyoPicture.jpeg)
+* **Second Monitor Screen:** ![Calm Before Storm](assets/My_Linux_Rice/8.calmbeforestorm.jpeg) (A peaceful evening featuring two boats sailing on calm waters)
 
 ### 2. Custom Terminal Environment (Kitty)
 Driven by the Kitty terminal backend, this interface strips away window borders and title bars for maximum screen real estate. 
 
-* **Greeting Screen (`1.terminalgreeting.png`):** Features a custom text greeting over the parchment canvas.
-* **System Diagnostics (`3.fastfetchview.png` & `7.btop.png`):** Shows detailed system information and core performance layout using custom canvas-colored borders.
-* **CMatrix Theme (`4.cmatrix.png`):** Terminal matrix stream utilizing matching dark ink tones.
+* **Greeting Screen:** ![Greeting Screen](assets/My_Linux_Rice/1.terminalgreeting.png) Features a custom text greeting over the parchment canvas.
+* **System Diagnostics:** ![Fastfetch View](assets/My_Linux_Rice/3.fastfetchview.png) & ![Btop View](assets/My_Linux_Rice/7.btop.png) Shows detailed system information and core performance layout using custom canvas-colored borders.
+* **CMatrix Theme:** ![CMatrix Theme](assets/My_Linux_Rice/4.cmatrix.png) Terminal matrix stream utilizing matching dark ink tones.
 
-![Terminal Overview](assets/3.fastfetchview.png)
+![Terminal Overview](assets/My_Linux_Rice/3.fastfetchview.png)
 
 <details>
 <summary>📄 Click to view the full kitty.conf file</summary>
