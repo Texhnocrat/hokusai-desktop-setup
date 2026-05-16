@@ -30,10 +30,19 @@ The core desktop layout utilizes a flat taskbar matching the soft blue oceanic h
 
 ![Main Desktop](assets/My_Linux_Rice/2.mainscreen.png)
 
-### 2. Custom Terminal Environment (Kitty)
+## 2. Applications & More
+
+Beyond core system utilities, the environment maintains the same cohesive aesthetic across primary application workspaces, including media streaming and reading setups.
+* **Spotify Layout:** *A minimalist streaming setup themed to mirror the parchment canvas texture and ocean-ink palette tones.*  ![Spotify Setup](assets/My_Linux_Rice/5.spotify.png)
+* **Digital Reading Desk:** *An active reading configuration displaying study literature and document tracking alongside text-optimized font layouts.* ![Reading Layout](assets/My_Linux_Rice/15.reading.png) 
+* **CLI Media Streaming (mpv):** *pulling up videos directly using `mpv` without standard window borders or player clutter.*  ![Movie Playback](assets/My_Linux_Rice/16.mpvmovie.png)
+
+
+
+### 3. Custom Terminal Environment (Kitty)
 Driven by the Kitty terminal backend, this interface strips away window borders and title bars for maximum screen real estate. 
 * **System Diagnostics:** *Shows detailed system information and core performance layout using custom canvas-colored borders.* ![Fastfetch View](assets/My_Linux_Rice/3.fastfetchview.png)
-* **Btop CLI View:** *A graphical, real-time terminal monitor tracking CPU, memory, and processes within*  ![Btop View](assets/My_Linux_Rice/7.btop.png) 
+* **Btop CLI View:** *A graphical, real-time terminal monitor tracking CPU, memory, and processes within*  ![Btop View](assets/My_Linux_Rice/7.btopCLI.png) 
 * **CMatrix Theme:** *Terminal matrix stream utilizing matching dark ink tones.* ![CMatrix Theme](assets/My_Linux_Rice/4.cmatrix.png) 
 ---
 
