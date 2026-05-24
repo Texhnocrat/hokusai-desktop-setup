@@ -16,7 +16,7 @@ In the gif you can see on the left fastfetch, top right is cava and bottom right
 ![Tiled Workspace Demonstration](assets/My_Linux_Rice/14.unixmaine(1).gif)
 
 ### Custom Lock Screen
-The responsive user authentication and system security screen utilizing our custom ukiyo-e workstation artwork asset.
+I wanted to match the theme with a cool lock screen so I had this image of a samurai sitting in front of a crt monitor, I would like to change the color of the date & time so it doesn't disappear when I go to put in the password, or maybe place the date & time over the monitor, so it looks like the samurai is checking the time.
 
 ![Lock Screen Sequence](assets/My_Linux_Rice/13.Lockscreen.gif)
 
