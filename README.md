@@ -11,7 +11,7 @@ The terminal was customized to look like a parchment and ink style workspace, wi
 This walkthrough will show the terminal I customized, the aplications I was able to match in color theme and at the very end provide the configuration file I used for the kitty terminal emulator, if you enjoy any part of this rice (customization) please feel free to use it for yourself!
 
 ### Tiled CLI Workspaces
-A demonstration of launching into the desktop environment, initializing the terminal framework, and managing active split-pane layout tracking.
+In the gif you can see on the left fastfetch, top right is cava and bottom right is cmatrix, I thought these looked cool in the reddit posts I saw other users have so I implemented it in my setup, these are all free and can be installed easily. 
 
 ![Tiled Workspace Demonstration](assets/My_Linux_Rice/14.unixmaine(1).gif)
 
