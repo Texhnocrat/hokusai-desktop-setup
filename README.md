@@ -34,16 +34,15 @@ This is litterally a poster in my place, I thought it looked cool and while firs
 
 ## 2. Applications & More
 
-Beyond core system utilities, the environment maintains the same cohesive aesthetic across primary application workspaces, including media streaming and reading setups.
 * **Spotify Layout:** *Spotify with Spicetify to match the color themes*  ![Spotify Setup](assets/My_Linux_Rice/5.spotify.png)
-* **Custom Firefox Configuration:** ![Firefox Browser Setup](assets/My_Linux_Rice/CustomFirefox.png)
-* **Digital Reading Desk:** *Ebook Viewer On Hand With A Good Book To Read.* ![Reading Layout](assets/My_Linux_Rice/SuperiorRead.png) 
-* **CLI Media Streaming with mpv:** *pulling up videos directly using `mpv` Movie Begins Playing Out Of The Terminal hehe.* ![Movie Playing](assets/My_Linux_Rice/14.unixmaine(3).gif)
+* **Firefox Color Theme:** ![Firefox Browser Setup](assets/My_Linux_Rice/CustomFirefox.png)
+* **Digital Reading Desk:** *Ebook Viewer on hand with a good book to read.* ![Reading Layout](assets/My_Linux_Rice/SuperiorRead.png) 
+* **CLI Media Streaming with mpv:** *pulling up videos directly using `mpv` I like that I can pull up movies on my system straight from the terminal.* ![Movie Playing](assets/My_Linux_Rice/14.unixmaine(3).gif)
 
 
 
 ### 3. Custom Terminal Environment (Kitty)
-Driven by the Kitty terminal backend, this interface strips away window borders and title bars for maximum screen real estate. 
+I'm using the Kitty terminal emulator, with this interface I removed the window borders and title bars for a more clean minimalist look. 
 * **System Diagnostics:** *Shows detailed system information and core performance layout using custom canvas-colored borders.* ![Fastfetch View](assets/My_Linux_Rice/3.fastfetchview.png)
 * **Btop CLI View:** *A graphical, real-time terminal monitor tracking CPU, memory, and processes within*  ![Btop View](assets/My_Linux_Rice/7.btopCLI.png)
 * **Tiled Workspace & CLI Panes:** *A split-window workspace utilizing Kitty's native tiling layout.* ![Multi-Pane Workspace Layout](assets/My_Linux_Rice/PanesCLI.png)
@@ -51,7 +50,7 @@ Driven by the Kitty terminal backend, this interface strips away window borders 
 ---
 
 ## 📥 Artwork & Assets Download
-If you want to use the standalone custom background and lock screen artwork from this build, you can view and save the high-resolution files below:
+If you want to use any of the background and lock screen artwork from this build, you can view and save the images below along with the kitty.conf file:
 
 * **Primary Wallpaper:** ![Wallpaper Asset](assets/My_Linux_Rice/11.UkiyoPicture.jpeg)
 * **Second Monitor Screen:** *(A peaceful evening featuring two boats sailing on calm waters)* ![Calm Before Storm](assets/My_Linux_Rice/8.calmbeforestorm.jpeg) 
