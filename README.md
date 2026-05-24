@@ -1,6 +1,6 @@
 # 🌊 Ukiyo-e Desktop Setup (Kubuntu)
 
-This presentation isn't necessarily to showcase skills, its more about showing how customizable Linux distros can be to those who don't know much about Linux at all. I worked on this setup for quite a bit as I was and still am learning the many things Linux distrobutions can do. Here you'll see a clean, minimalist desktop environment inspired by traditional Japanese woodblock print poster I have in my apartment, namely Katsushika Hokusai's *The Sea at Satta in Suruga Province*. 
+This presentation isn't necessarily to showcase skills, its more about showing how customizable Linux distros can be to those who don't know much about Linux at all. I worked on this setup for quite a bit as I was learning (and still am) the many things Linux distrobutions can do. Here you'll see a clean, minimalist desktop environment inspired by traditional Japanese woodblock print poster I have in my apartment, namely Katsushika Hokusai's *The Sea at Satta in Suruga Province*. 
 
 The terminal was customized to look like a parchment and ink style workspace, with a borderless terminal configuration, fastfetch, cava and custom artwork. Basically, I wanted to learn Linux but still have some fun on the side. 
 
