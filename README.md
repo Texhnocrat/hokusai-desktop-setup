@@ -28,7 +28,7 @@ I wanted to match the theme with a cool lock screen so I had this image of a sam
 
 * **Greeting Screen:** ![Greeting Screen](assets/My_Linux_Rice/1.terminalgreeting.png)
 
-This is litterally a poster in my place, I thought it looked cool and while first deciding on what to theme my desktop environment this was the second option that came to mind, I took a poster and had AI generate it 1920 x 1080 so it would fit my background. 
+This is litterally a poster in my place, I thought it looked cool and while first deciding on what to theme my desktop environment this was the second option that came to mind, I took a picture of the poster and had AI generate it 1920 x 1080 so it would fit my background. 
 
 ![Main Desktop](assets/My_Linux_Rice/2.mainscreen.png)
 
