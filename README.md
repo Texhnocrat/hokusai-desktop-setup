@@ -1,14 +1,14 @@
 # 🌊 Ukiyo-e Desktop Setup (Kubuntu)
 
-A clean, minimalist desktop environment inspired by traditional Japanese woodblock prints—specifically Katsushika Hokusai's *The Sea at Satta in Suruga Province* and *The Great Wave off Kanagawa*. 
+This presentation isn't necessarily to showcase skills, its more about showing how customizable Linux distros can be to those who don't know much about Linux at all. I worked on this setup for quite a bit as I was and still am learning the many things Linux distrobutions can do. Here you'll see a clean, minimalist desktop environment inspired by traditional Japanese woodblock print poster I have in my apartment, namely Katsushika Hokusai's *The Sea at Satta in Suruga Province*. 
 
-This setup features a unified parchment-and-ink color space, a borderless tiling terminal configuration, customized audio layout tracking, and custom standalone artwork assets.
+The terminal was customized to look like a parchment and ink style workspace, with a borderless terminal configuration, fastfetch, cava and custom artwork. Basically, I wanted learn Linux but still have some fun on the side. 
 
 ---
 
 ## 🎥 Walkthrough & Demos
 
-A quick look at the environment's motion, active layouts, and system transitions using lightweight animated previews.
+This walkthrough will show the terminal I customized, the aplications I was able to match in color theme and at the very end provide the configuration file I used for the kitty terminal emulator, if you enjoy any part of this rice (customization) please feel free to use it for yourself!
 
 ### Tiled CLI Workspaces
 A demonstration of launching into the desktop environment, initializing the terminal framework, and managing active split-pane layout tracking.
